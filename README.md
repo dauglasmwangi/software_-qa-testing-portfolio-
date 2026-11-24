@@ -68,7 +68,7 @@ I am currently building practical experience through independent testing exercis
 
 ## Contact
 
-GitHub: [Add your GitHub profile link]
+GitHub: 
 
 Email: dauglasmwangi4@gmail.com]
 
